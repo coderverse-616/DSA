@@ -1,3 +1,3 @@
 # DSA
-My first repositiory
+My first repository
 Author - Advik Srivastava
